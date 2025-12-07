@@ -292,7 +292,7 @@ Gracefully handles API errors, parsing failures, and missing data.
 ## 📚 Learn More
 
 - [Bright Data SERP API Documentation](https://docs.brightdata.com/serp-api)
-- [Sign up for SERP API access](https://brightdata.com)
+- [Sign up for SERP API access](https://get.brightdata.com/2039fnr15xfy)
 - [Example use cases](https://brightdata.com/use-cases)
 
 ---
